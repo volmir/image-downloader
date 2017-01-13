@@ -1,0 +1,10 @@
+{
+    "name": "volmir/image-downloader",
+    "description": "PSR-4 image downloader",
+    "homepage": "https://github.com/volmir/image-downloader",    
+    "autoload": {
+        "psr-4": {
+            "PVV\\": "/src/"
+        }
+    }
+}
